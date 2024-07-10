@@ -1,0 +1,21 @@
+.page{
+    margin: 90px;
+    padding: 50px;
+    background-color: blueviolet;
+} 
+div{
+    background-color: rgb(24, 10, 38);
+    color: azure;
+    margin: 40px;
+    padding: 40px;
+    
+}
+h2{
+    padding-left: 80px;
+}
+.line{
+    text-decoration: line-through;
+    color: azure;
+    margin: 0px;
+    padding:0px;
+}
